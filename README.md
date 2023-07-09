@@ -5,6 +5,9 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+![Screenshot_1688927677](https://github.com/Alex1-ai/Reader-app/assets/78540958/c3f3907e-b4d3-4be5-9c22-ecdb78eee546)
+
+
 
 A few resources to get you started if this is your first Flutter project:
 
